@@ -4,7 +4,7 @@ Flight delays are one of the important modern life challenges of airports and ai
 
 ## Data 
 
-The data for this project entails the flights arrival, departure, delay time and reason for delay for commercial flights in the United States of America. The data is from October 2012 to April 2019.  The dataset has about 50 million records and size is of 22 gigabytes
+The data for this project entails the flights arrival, departure, delay time and reason for delay for commercial flights in the United States of America. The data is from 2012 to 2019.  The dataset has about 50 million records and size is of 22 gigabytes
 
 ## Methods
 The jupyter notebook with the analysis can be found [here](https://github.com/muthusm/Flight-Delay-Prediction/blob/main/4.%20Methods.ipynb). It includes all the steps we have used to generate and analyse the data with the required output.
